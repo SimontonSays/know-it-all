@@ -1,5 +1,5 @@
 # know-it-all
-# KnowItAll — Home Services Business Website
+# Mr.Know It All LLC — Home Services Business Website
 
 This project is a business website with customer login, profile management, and an administrator dashboard.  
 It is designed for a home services company that provides:
